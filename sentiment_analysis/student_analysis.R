@@ -12,3 +12,4 @@ student_sentences <- c('I really like the pie you gave me this morning.',
 
 # Analyze sentiment for student sentences
 
+students_sentiments <- get_sentiment(student_sentences)
